@@ -90,8 +90,8 @@ import shutil<br>
 
 ## Обучение
 Обучение сети будет происходить на 30 эпохах с learning rate = 0.00001. В конце обучения выведем графики loss и accuracy, а также сохраним модель для дальнейшего использования<br>
-![image](https://github.com/user-attachments/assets/6111ebe5-98c3-45d4-bf9f-c9384610cb8e)<br>
-![image](https://github.com/user-attachments/assets/d7941f9c-770d-486e-bda1-84e6c2e45d9b)<br>
+![image](https://github.com/user-attachments/assets/a29efed6-f3a7-4f96-84c0-6eaf6ed47e57)<br>
+![image](https://github.com/user-attachments/assets/09514f80-4ad2-4cae-aad0-03c9d4f6c880)<br>
 ![image](https://github.com/user-attachments/assets/07a0a3cb-152b-481d-9541-2c4909d60dbc)<br>
 
 ## Тестирование сети
